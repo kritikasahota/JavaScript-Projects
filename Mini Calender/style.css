@@ -5,7 +5,7 @@ body{
     justify-content: center;
     align-items: center;
     font-family: cursive;
-    background-color: slateblue;
+    background-color: #aea9ba;
 
 }
 
@@ -22,7 +22,7 @@ body{
 
 .month-name{
     margin: 0;
-    background-color:orangered;
+    background-color:#6a5acd;
     padding: 10px;
     color:white;
     font-size: 30px;
